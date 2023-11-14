@@ -10,7 +10,7 @@
   <p>
     <img height="180em" src="https://github-readme-stats-eight-kappa-99.vercel.app/api?username=sindorim5&show_icons=true&theme=github_dark" />
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats-alx7.vercel.app/api/top-langs/?username=sindorim5&layout=compact&hide=css&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats-eight-kappa-99.vercel.app/api/top-langs/?username=sindorim5&layout=compact&hide=css&theme=github_dark" />
   </p>
   
 </div> 
